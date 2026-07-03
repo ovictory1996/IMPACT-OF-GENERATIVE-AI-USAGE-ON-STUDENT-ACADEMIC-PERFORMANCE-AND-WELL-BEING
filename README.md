@@ -42,8 +42,8 @@ This dataset examines how university students across different disciplines utili
 
 ## Data-Collection-and-Preparation 
 #### Raw data:
-The dataset on Retail Store Transaction was obtained from Kaggle.
-[Download CREDIT CARD SPENDING HABITS](Credit_card_raw_data.xlsx)
+The dataset on IMPACT-OF-GENERATIVE-AI-USAGE-ON-STUDENT-ACADEMIC-PERFORMANCE was obtained from Kaggle.
+[Download IMPACT OF GENERATIVE AI USAGE ON STUDENT ACADEMIC PERFORMANCE ](Impact.csv)
 
 ### Tools used: 
         - MICROSOFT Excel - Data Cleaning and Transformation
