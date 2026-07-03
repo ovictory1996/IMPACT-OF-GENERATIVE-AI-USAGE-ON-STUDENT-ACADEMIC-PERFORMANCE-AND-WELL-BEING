@@ -71,10 +71,11 @@ The dataset on IMPACT-OF-GENERATIVE-AI-USAGE-ON-STUDENT-ACADEMIC-PERFORMANCE was
  - ![Ai_image](Ai_image.png)
 
 ## Insight from analysis
-- The analysis shows that female customers spent a higher total amount than male customers
-- Greater Mumbai had the highest number of customers in the dataset, followed by Bengaluru and Ahmedabad.
-- January recorded the highest spending amount in 2015, while August had the highest spending amount in 2014. In 2013, spending amounts were recorded only in October, November, and December, with December emerging as the month with the highest spending amount.
-- The analysis revealed that customers spent more on Food than on any other expense type.
+- Students who used Generative AI more frequently generally showed greater GPA improvement, suggesting that appropriate use of AI tools may positively support academic performance.
+- Students with higher perceived AI dependency tended to have lower skill retention scores, indicating that excessive reliance on AI may reduce long-term knowledge retention.
+- Burnout risk varied across students with different levels of AI usage, indicating that the amount of time spent using AI may be associated with students' academic stress and well-being.
+- Student outcomes differed across institutional AI policy categories, suggesting that university policies on AI use may influence academic performance and learning experiences.
+- The analysis indicates that Generative AI can enhance academic performance when used as a learning support tool. However, excessive dependence on AI may reduce skill retention, highlighting the importance of responsible AI use. Institutional policies and the way students use AI also appear to influence academic outcomes and student well-being.
 
 ## Conclusion
 - The analysis of customer spending patterns provides clear insights into behavior across cities, time periods, and expense categories. Greater Mumbai recorded the highest total spending, followed by Ahmedabad and Bengaluru, indicating stronger customer activity in these locations.
