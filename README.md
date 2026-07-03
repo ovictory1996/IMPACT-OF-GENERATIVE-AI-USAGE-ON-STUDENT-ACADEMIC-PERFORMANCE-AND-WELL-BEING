@@ -23,9 +23,12 @@
 - [RECOMMENDATION](#RECOMMENDATION)
 
 ## INTRODUCTION
-The increasing adoption of credit cards as a convenient and secure payment method has led to a significant rise in electronic financial transactions worldwide. These transactions generate large volumes of data that can be analyzed to understand customer spending habits, identify market trends, and support strategic decision-making. Data analytics plays an important role in transforming raw transaction records into meaningful insights that can improve business performance and customer satisfaction.
-This project focuses on the analysis of a Credit Card Transaction Dataset containing information such as transaction dates, cities, card types, expense categories, customer gender, transaction amounts, month names, and years. The dataset was cleaned and transformed to ensure data quality and consistency before performing exploratory data analysis and creating interactive visualizations.
-The main objective of this project is to analyze customers' spending behavior across different cities and time periods, examine the popularity of various card types, and investigate spending patterns based on gender and expense categories. The inclusion of month and year variables also enables the study of seasonal and yearly transaction trends.
+## Introduction
+
+Generative Artificial Intelligence (GenAI) has become an important technology in education, transforming how students learn, conduct research, complete assignments, and solve academic problems. Tools such as ChatGPT, Google Gemini, Microsoft Copilot, and Claude provide instant access to information, personalized learning support, and assistance with writing, programming, and problem-solving. As a result, the use of GenAI among students has increased significantly in recent years.
+The growing adoption of Generative AI offers several potential benefits, including improved learning efficiency, better academic performance, reduced study time, and increased access to educational resources. However, concerns have also been raised about students becoming overly dependent on AI, reduced critical thinking, academic dishonesty, and the possible effects on mental well-being, such as anxiety and burnout.
+Given these potential benefits and challenges, it is important to examine how Generative AI influences both students' academic performance and well-being. This study investigates the relationship between Generative AI usage and outcomes such as GPA improvement, skill retention, anxiety levels, and burnout risk. The findings will contribute to a better understanding of how AI can be used responsibly to enhance learning while supporting students' academic success and overall well-being.
+
 
 ## Data-Source
 The dataset used in this project was obtained from an online tutorial for educational and learning purposes. The dataset contains credit card transaction records from various cities in India, including information such as transaction date, city, card type, expense type, gender, transaction amount, month, and year. The data was used to perform  analysis and dashboard visualization in Power BI.
