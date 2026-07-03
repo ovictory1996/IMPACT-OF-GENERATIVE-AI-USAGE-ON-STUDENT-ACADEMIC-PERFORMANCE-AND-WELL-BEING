@@ -53,22 +53,22 @@ The dataset on IMPACT-OF-GENERATIVE-AI-USAGE-ON-STUDENT-ACADEMIC-PERFORMANCE was
 ## SKILLS DEMONSTRATED:
  - Excel:
     - Checked and removed duplicates to ensure data quality and accuracy.
-    - Created new columns for Month Name and Year from the transaction date to enable time-based analysis.
-    - Standardized the Gender column by replacing shorthand values (M and F) with full labels (Male and Female) for consistency
+    - Created a new column named GPA_IMPROVEMENT by calculating the difference between the Post-Semester GPA and the Pre-Semester GPA (Post_Semester_GPA Pre_Semester_GPA). This derived variable was used to measure changes in students' academic performance after a semester of Generative AI usage.
     - convert it as a Table
 
  - Powerbi:
      - importing the dataset from the excel
-     - creating the measures using DAX (Data Analysis Expressions) to perform dynamic calculations. These measures included Total Amount Spent, Average Transaction Amount, Total Number of Transactions
+     - creating the measures using DAX (Data Analysis Expressions) to perform dynamic calculations. These measures included Total_number_of _student,average_weekly_ai_hours, average_skill_retention, average_gpa_improvement
   
   ## Data Analysis:
- - Total_Amount_Spent by Month_Name
- - Total_Amount_Spent by Gender
- - Total_Amount_Spent by Exp_Type
- - Top 10 Total_Amount_Spent by City
+ - Perceived_AI_Dependency by Average_Skill_Retention
+ - Institutional_Policy by Average_GPA_Improvement
+ - Primary_Use_Case by Average_GPA_Improvement
+ - sum of Weekly_GenAI_Hours by Sum of GPA Improvement
+ - Burnout_Risk_Level by sum of Perceived_AI_Dependency
 
 ## Visualizations:
- - ![credit](credit.png)
+ - ![Ai_image](Ai_image.png)
 
 ## Insight from analysis
 - The analysis shows that female customers spent a higher total amount than male customers
