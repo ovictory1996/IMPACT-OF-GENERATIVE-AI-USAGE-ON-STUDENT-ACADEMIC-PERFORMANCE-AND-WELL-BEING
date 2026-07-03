@@ -1,1 +1,92 @@
 # IMPACT-OF-GENERATIVE-AI-USAGE-ON-STUDENT-ACADEMIC-PERFORMANCE-AND-WELL-BEING
+
+![Ai_ima](Ai_imag.jpg)
+
+## TABLE OF CONTENT
+
+- [INTRODUCTION](#Introduction)
+
+- [DATA SOURCE](#Data-Source)
+
+- [PROBLEM STATEMENT](#Problem-Statement)
+
+- [DATA COLLECTION AND PREPARATION](#Data-Collection-and-Preparation)
+
+- [Skills demonstrated](#Skills-demonstrated)
+
+- [Visualizations](#Visualizations)
+
+- [Insight from analysis](#Insight-from-analysis)
+
+- [Conclusion](#Conclusion)
+
+- [RECOMMENDATION](#RECOMMENDATION)
+
+## INTRODUCTION
+The increasing adoption of credit cards as a convenient and secure payment method has led to a significant rise in electronic financial transactions worldwide. These transactions generate large volumes of data that can be analyzed to understand customer spending habits, identify market trends, and support strategic decision-making. Data analytics plays an important role in transforming raw transaction records into meaningful insights that can improve business performance and customer satisfaction.
+This project focuses on the analysis of a Credit Card Transaction Dataset containing information such as transaction dates, cities, card types, expense categories, customer gender, transaction amounts, month names, and years. The dataset was cleaned and transformed to ensure data quality and consistency before performing exploratory data analysis and creating interactive visualizations.
+The main objective of this project is to analyze customers' spending behavior across different cities and time periods, examine the popularity of various card types, and investigate spending patterns based on gender and expense categories. The inclusion of month and year variables also enables the study of seasonal and yearly transaction trends.
+
+## Data-Source
+The dataset used in this project was obtained from an online tutorial for educational and learning purposes. The dataset contains credit card transaction records from various cities in India, including information such as transaction date, city, card type, expense type, gender, transaction amount, month, and year. The data was used to perform  analysis and dashboard visualization in Power BI.
+
+## Problem-Statement
+Financial institutions generate large volumes of credit card transaction data every day. However, extracting meaningful insights from these transactions can be challenging due to the large amount of data and the variety of factors influencing customer spending behavior.
+This project aims to analyze credit card transaction data to understand customer spending behavior and identify key spending trends. The analysis seeks to answer the following questions:
+- What is the total amount spent in each month?
+- How does the total amount spent vary by gender?
+- Which expense categories (Exp_Type) contribute the most to total spending?
+- Which are the top 10 cities based on total amount spent?
+- What are the key performance indicators (KPIs), namely: Total Amount Spent, Average Transaction Amount, Total Number of Transactions
+To address these questions, the dataset was cleaned and transformed in Excel, and an interactive dashboard was developed in Power BI. DAX (Data Analysis Expressions) was used to create measures for calculating KPIs and supporting data visualization.
+
+## Data-Collection-and-Preparation 
+#### Raw data:
+The dataset on Retail Store Transaction was obtained from Kaggle.
+[Download CREDIT CARD SPENDING HABITS](Credit_card_raw_data.xlsx)
+
+### Tools used: 
+        - MICROSOFT Excel - Data Cleaning and Transformation
+        - Powerbi - Data visualization and dashboard development.
+        - DAX - Creation of calculated measures and KPIs. 
+        
+## SKILLS DEMONSTRATED:
+ - Excel:
+    - Checked and removed duplicates to ensure data quality and accuracy.
+    - Created new columns for Month Name and Year from the transaction date to enable time-based analysis.
+    - Standardized the Gender column by replacing shorthand values (M and F) with full labels (Male and Female) for consistency
+    - convert it as a Table
+
+ - Powerbi:
+     - importing the dataset from the excel
+     - creating the measures using DAX (Data Analysis Expressions) to perform dynamic calculations. These measures included Total Amount Spent, Average Transaction Amount, Total Number of Transactions
+  
+  ## Data Analysis:
+ - Total_Amount_Spent by Month_Name
+ - Total_Amount_Spent by Gender
+ - Total_Amount_Spent by Exp_Type
+ - Top 10 Total_Amount_Spent by City
+
+## Visualizations:
+ - ![credit](credit.png)
+
+## Insight from analysis
+- The analysis shows that female customers spent a higher total amount than male customers
+- Greater Mumbai had the highest number of customers in the dataset, followed by Bengaluru and Ahmedabad.
+- January recorded the highest spending amount in 2015, while August had the highest spending amount in 2014. In 2013, spending amounts were recorded only in October, November, and December, with December emerging as the month with the highest spending amount.
+- The analysis revealed that customers spent more on Food than on any other expense type.
+
+## Conclusion
+- The analysis of customer spending patterns provides clear insights into behavior across cities, time periods, and expense categories. Greater Mumbai recorded the highest total spending, followed by Ahmedabad and Bengaluru, indicating stronger customer activity in these locations.
+Monthly trends show fluctuations in spending over time, with January 2015, August 2014, and December 2013 recording the highest spending amounts in their respective years. This suggests that customer spending varies significantly across different periods.
+In terms of expense types, Food recorded the highest spending amount, showing that customers allocate a large portion of their spending to this category. Additionally, female customers accounted for a higher proportion of transactions after data cleaning and standardization.
+Overall, these insights highlight important patterns in customer behavior that can support better decision-making in marketing, customer targeting, and business strategy.
+
+# RECOMMENDATION
+- Businesses should focus more on high-performing locations such as Greater Mumbai, Ahmedabad, and Bengaluru by implementing targeted marketing strategies to further increase customer engagement and revenue.
+- Since Food recorded the highest spending amount, companies should prioritize expanding food-related products and services to meet customer demand and maximize profit opportunities.
+- Seasonal spending patterns should be leveraged by planning promotional campaigns during peak months such as January, August, and December to boost sales.
+- Customer segmentation strategies should be developed based on spending behavior, particularly focusing on gender and location to improve personalized marketing.
+- Further analysis can be conducted to explore the factors influencing spending behavior across different card types and expense categories for more business insights.
+
+
