@@ -22,26 +22,23 @@
 
 - [RECOMMENDATION](#RECOMMENDATION)
 
-## INTRODUCTION
 ## Introduction
 
 Generative Artificial Intelligence (GenAI) has become an important technology in education, transforming how students learn, conduct research, complete assignments, and solve academic problems. Tools such as ChatGPT, Google Gemini, Microsoft Copilot, and Claude provide instant access to information, personalized learning support, and assistance with writing, programming, and problem-solving. As a result, the use of GenAI among students has increased significantly in recent years.
 The growing adoption of Generative AI offers several potential benefits, including improved learning efficiency, better academic performance, reduced study time, and increased access to educational resources. However, concerns have also been raised about students becoming overly dependent on AI, reduced critical thinking, academic dishonesty, and the possible effects on mental well-being, such as anxiety and burnout.
 Given these potential benefits and challenges, it is important to examine how Generative AI influences both students' academic performance and well-being. This study investigates the relationship between Generative AI usage and outcomes such as GPA improvement, skill retention, anxiety levels, and burnout risk. The findings will contribute to a better understanding of how AI can be used responsibly to enhance learning while supporting students' academic success and overall well-being.
 
-
 ## Data-Source
-The dataset used in this project was obtained from an online tutorial for educational and learning purposes. The dataset contains credit card transaction records from various cities in India, including information such as transaction date, city, card type, expense type, gender, transaction amount, month, and year. The data was used to perform  analysis and dashboard visualization in Power BI.
+The dataset used in this study was obtained from an online educational resource and was created for learning and research purposes. It contains student-related information on Generative Artificial Intelligence (GenAI) usage, academic performance, and well-being. The dataset includes variables such as students' major category, year of study, pre- and post-semester GPA, weekly GenAI usage hours, primary use case of AI, prompt engineering skill, AI tool diversity, traditional study hours, perceived AI dependency, institutional AI policy, anxiety level during examinations, skill retention score, burnout risk level, and GPA improvement. The dataset was used to examine the relationship between Generative AI usage, students' academic performance, and well-being through data analysis and visualization using Power BI.
 
 ## Problem-Statement
-Financial institutions generate large volumes of credit card transaction data every day. However, extracting meaningful insights from these transactions can be challenging due to the large amount of data and the variety of factors influencing customer spending behavior.
-This project aims to analyze credit card transaction data to understand customer spending behavior and identify key spending trends. The analysis seeks to answer the following questions:
-- What is the total amount spent in each month?
-- How does the total amount spent vary by gender?
-- Which expense categories (Exp_Type) contribute the most to total spending?
-- Which are the top 10 cities based on total amount spent?
-- What are the key performance indicators (KPIs), namely: Total Amount Spent, Average Transaction Amount, Total Number of Transactions
-To address these questions, the dataset was cleaned and transformed in Excel, and an interactive dashboard was developed in Power BI. DAX (Data Analysis Expressions) was used to create measures for calculating KPIs and supporting data visualization.
+This dataset examines how university students across different disciplines utilize Generative AI tools and how usage patterns relate to academic outcomes, skill retention, anxiety levels, and burnout risk. It combines demographic, behavioral, institutional, and performance-related variables to evaluate the educational impact of AI-assisted learning. The analysis seeks to answer the following questions:
+- Does increased GenAI usage improve academic performance?
+- How does AI dependency affect skill retention?
+- Is there a relationship between AI usage and burnout risk?
+- Do institutional AI policies influence student outcomes?
+- Which AI use cases are associated with the highest GPA improvement?
+
 
 ## Data-Collection-and-Preparation 
 #### Raw data:
