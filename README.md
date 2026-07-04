@@ -78,16 +78,13 @@ The dataset on IMPACT-OF-GENERATIVE-AI-USAGE-ON-STUDENT-ACADEMIC-PERFORMANCE was
 - The analysis indicates that Generative AI can enhance academic performance when used as a learning support tool. However, excessive dependence on AI may reduce skill retention, highlighting the importance of responsible AI use. Institutional policies and the way students use AI also appear to influence academic outcomes and student well-being.
 
 ## Conclusion
-- The analysis of customer spending patterns provides clear insights into behavior across cities, time periods, and expense categories. Greater Mumbai recorded the highest total spending, followed by Ahmedabad and Bengaluru, indicating stronger customer activity in these locations.
-Monthly trends show fluctuations in spending over time, with January 2015, August 2014, and December 2013 recording the highest spending amounts in their respective years. This suggests that customer spending varies significantly across different periods.
-In terms of expense types, Food recorded the highest spending amount, showing that customers allocate a large portion of their spending to this category. Additionally, female customers accounted for a higher proportion of transactions after data cleaning and standardization.
-Overall, these insights highlight important patterns in customer behavior that can support better decision-making in marketing, customer targeting, and business strategy.
+- This study examined the impact of Generative Artificial Intelligence (GenAI) on students' academic performance, skill retention, and well-being. The findings indicate that GenAI has the potential to enhance academic outcomes when used responsibly as a learning aid. Students who effectively integrated AI into their study routines generally demonstrated improvements in academic performance.
+However, the analysis also suggests that excessive dependence on AI may negatively affect skill retention, as students who rely heavily on AI may have fewer opportunities to develop and reinforce their own knowledge and problem-solving abilities. In addition, the relationship between AI usage and burnout highlights the importance of maintaining a healthy balance between technology-assisted learning and independent study.
+
 
 # RECOMMENDATION
-- Businesses should focus more on high-performing locations such as Greater Mumbai, Ahmedabad, and Bengaluru by implementing targeted marketing strategies to further increase customer engagement and revenue.
-- Since Food recorded the highest spending amount, companies should prioritize expanding food-related products and services to meet customer demand and maximize profit opportunities.
-- Seasonal spending patterns should be leveraged by planning promotional campaigns during peak months such as January, August, and December to boost sales.
-- Customer segmentation strategies should be developed based on spending behavior, particularly focusing on gender and location to improve personalized marketing.
-- Further analysis can be conducted to explore the factors influencing spending behavior across different card types and expense categories for more business insights.
+- Institutions should provide academic support services, time management training, and mental health resources to help students manage stress and reduce the risk of academic burnout.
+- ducational institutions should encourage students to use Generative AI as a learning support tool rather than as a replacement for independent thinking and problem-solving.
+- Training programs and workshops should be organized to improve students' AI literacy, including effective prompt engineering, critical evaluation of AI-generated content, and responsible AI usage.
 
 
